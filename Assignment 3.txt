@@ -1,0 +1,12 @@
+1.  Mining is done by solving complex cryptographic hash puzzles to verify blocks of transactions that are updated on the decentralized blockchain ledger. Mining involves Blockchain miners who add bitcoin transaction data to Bitcoin's global public ledger of past transactions. To identify a block, you have a cryptographic hash, a digital signature if you will. This is created by hashing the block header twice with the SHA256 algorithm. For example, this is a block
+
+2. A Bitcoin transaction, or any cryptocurrency transaction must be confirmed on a blockchain to verify that the transaction is legitimate. A confirmed transaction means that the transaction has been included in a block, and therefore included in the blockchain.
+    Step 1: Download a wallet. The first thing you need to do in order to send out Bitcoin, is to have access to a wallet that can hold your assets.
+    Step 2: Deposit BTC into your wallet.
+
+3. A Merkle tree is a data structure that is used in computer science applications. Merkle Tree is used to save a lot of space in the blockchain. Merkle trees serve to encode blockchain data more efficiently and securely. They are also referred to as "binary hash tree
+
+4. Byzantine Fault Tolerance is a computer system's ability to continue operating even if some of its nodes fail or act maliciously. Byzantine Fault Tolerance is important because it means a system can keep functioning even if certain components stop working. Around 2/3rd of the peers are honest or agreeing to a point then it is taken as a decision. 
+
+5. The incentive can also be funded with transaction fees. If the output value of a transaction is less than its input value, the difference is a transaction fee that is added to the incentive value of the block containing the transaction.
+
